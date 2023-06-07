@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /current/parent/boot
+ls -la /current_working_directory /parent_directory /boot
