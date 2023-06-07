@@ -6,3 +6,5 @@ list all in long format
 display in long format with numbers
 create directory in tmp
 betty in my first directory
+delete betty
+
