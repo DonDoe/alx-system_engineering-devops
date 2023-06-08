@@ -1,3 +1,4 @@
 change user to betty
 who am i
-groups 
+groups
+new owner 
